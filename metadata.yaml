@@ -1,0 +1,31 @@
+_repo: American-nights-entertainment_70313
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Overton, Grant M. (Grant Martin)
+    alias: Overton, Grant Martin
+    birthdate: 1887
+    deathdate: 1930
+    gutenberg_agent_id: '32469'
+    url: http://www.gutenberg.org/2009/agents/32469
+    wikipedia: https://en.wikipedia.org/wiki/Grant_Martin_Overton
+description: ''
+gutenberg_issued: '2023-03-17'
+identifiers:
+  gutenberg: '70313'
+language: en
+pgterms:marc904: https://archive.org/details/americannightsen0000over/page/n5/mode/2up
+pgterms:marc905: 20200808130311overton
+pgterms:marc906: '1923'
+pgterms:marc907: US
+production_note: Alan, Charlene Taylor and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bD. Appleton and Compay, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: American nights entertainment
+url: http://www.gutenberg.org/ebooks/70313
